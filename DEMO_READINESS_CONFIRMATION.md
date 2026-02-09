@@ -3,7 +3,7 @@
 ## Demo-Safe Capabilities
 - Conceptual explanations of quantum computing
 - Foundational definitions (qubits, entanglement, measurement)
-- High-level algorithm overviews (Shor, Grover)
+- High-level algorithm overviews
 - Calm responses to emotional or ambiguous questions
 
 ---
@@ -24,4 +24,5 @@
 ---
 
 ## Overall Assessment
-UniGuru is safe to demonstrate as an explanatory, grounded, non-authoritative AI system. Demo should focus on understanding and education, not capability claims.
+UniGuru appears safe to demonstrate as an explanatory, grounded, non-authoritative AI system focused on education and understanding.
+
